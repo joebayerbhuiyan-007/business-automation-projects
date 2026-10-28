@@ -1,12 +1,12 @@
 # Business Automation Projects
 
-The personal website of Jobayer (Joe), covering work in business process automation, custom AI agents, and AI security.
+Hi, I'm Jobayer (Joe). This is my personal website, where I share my work in business process automation, custom AI agents, and AI security.
 
 **Live site:** https://joebayerbhuiyan-007.github.io/business-automation-projects/
 
 ## About
 
-Years of work in operations, logistics, supply chain, and product management across Asia and Europe showed a recurring pattern: small, unnoticed inefficiencies cost businesses time, money, and momentum. This site is the home for projects that tackle that problem:
+Over years of working in operations, logistics, supply chain, and product management across Asia and Europe, I kept seeing the same pattern: small, unnoticed inefficiencies cost businesses time, money, and momentum. This site is the home for my projects that tackle that problem:
 
 - Automating business processes
 - Building custom AI agents
@@ -16,7 +16,7 @@ Years of work in operations, logistics, supply chain, and product management acr
 
 | File         | Description                                                          |
 | ------------ | -------------------------------------------------------------------- |
-| `index.html` | The website: a single page with inline CSS, no build step needed |
+| `index.html` | My website: a single page with inline CSS, no build step needed |
 | `README.md`  | This file                                                            |
 
 ## Viewing it locally
@@ -29,4 +29,4 @@ git clone https://github.com/joebayerbhuiyan-007/business-automation-projects.gi
 
 ## Deployment
 
-The site is hosted on GitHub Pages from the root of the `main` branch. Every push to `main` updates the live site within a minute or two.
+I host the site on GitHub Pages from the root of the `main` branch. Every push to `main` updates the live site within a minute or two.
