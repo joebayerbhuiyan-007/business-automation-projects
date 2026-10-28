@@ -1,12 +1,12 @@
 # Business Automation Projects
 
-A personal website by Jobayer (Joe) introducing his work in business process automation, custom AI agents, and AI security.
+The personal website of Jobayer (Joe), covering work in business process automation, custom AI agents, and AI security.
 
 **Live site:** https://joebayerbhuiyan-007.github.io/business-automation-projects/
 
 ## About
 
-After years in operations, logistics, supply chain, and product management across Asia and Europe, Joe saw how small, unnoticed inefficiencies cost businesses time, money, and momentum. This site is the home for his work on fixing that:
+Years of work in operations, logistics, supply chain, and product management across Asia and Europe showed a recurring pattern: small, unnoticed inefficiencies cost businesses time, money, and momentum. This site is the home for projects that tackle that problem:
 
 - Automating business processes
 - Building custom AI agents
